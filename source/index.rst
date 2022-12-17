@@ -11,6 +11,7 @@ Welcome to note's documentation!
    :caption: Contents:
 
 
+   test/test.md
 
 Indices and tables
 ==================
